@@ -1,0 +1,14 @@
+@charset "utf-16";
+body svg metadata {<div class="glitch-embed-wrap" style="height: 486px; width: 100%;">
+  <iframe
+    allow="geolocation; microphone; camera; midi; encrypted-media"
+    src="https://glitch.com/embed/#!/embed/lyrical-locket?previewSize=100&previewFirst=true&sidebarCollapsed=true"
+    alt="lyrical-locket on Glitch"
+    style="height: 100%; width: 100%; border: 0; ">
+  </iframe>
+</div> }
+
+import codelingo/ast/go
+
+@playground.highlight
+go.file(depth = any)
